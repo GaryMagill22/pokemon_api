@@ -1,10 +1,10 @@
-import PokeForm from './components/PokeForm';
+import AxiosAPI from './components/AxiosAPI';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <PokeForm />
+      <AxiosAPI />
     </div>
   );
 }
